@@ -1,8 +1,31 @@
-# Personal Finance Tracker — Next.js + Tailwind CSS
+# Personal Finance Tracker
 
-A simple monthly personal finance tracker built with **Next.js, React, Tailwind CSS, Node.js, Express, MongoDB and Mongoose**.
+A full-stack personal finance tracker for managing monthly income, expenses, and budgets. The app helps users track spending, monitor budget usage, and stay on top of their financial goals.
 
-The project is intentionally kept simple so the code is easy to follow.
+## Tech Stack
+
+### Frontend
+- Next.js 14
+- React 18
+- Tailwind CSS
+- JavaScript / JSX
+
+### Backend
+- Node.js
+- Express.js
+- JWT for authentication
+- bcryptjs for password hashing
+- Cookie-based refresh token handling
+
+### Database
+- MongoDB
+- Mongoose ODM
+
+### Tools & Patterns
+- REST API architecture
+- Environment-based configuration
+- Responsive UI design
+- Secure auth flow with access and refresh tokens
 
 ## Features
 
