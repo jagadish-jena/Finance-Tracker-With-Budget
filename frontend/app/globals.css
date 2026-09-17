@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-brand-parchment text-brand-ink antialiased;
+		background-image: radial-gradient(#ded6c9 0.7px, transparent 0.7px);
+		background-size: 18px 18px;
+	}
+
+	::selection {
+		@apply bg-brand-saffron text-brand-ink;
+	}
+}
