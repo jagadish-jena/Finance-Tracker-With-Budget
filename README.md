@@ -2,6 +2,10 @@
 
 A full-stack personal finance tracker for managing monthly income, expenses, and budgets. The app helps users track spending, monitor budget usage, and stay on top of their financial goals.
 
+## Live Demo
+
+[Open the deployed app](https://finance-tracker-with-budget.vercel.app/login)
+
 ## Tech Stack
 
 ### Frontend
